@@ -1,2 +1,2 @@
 # awsprojects
-This repository is dedicated for aws projects from beginner to advanced level.
+This repository is dedicated for aws projects from rookie to advanced level.
